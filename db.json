@@ -13,16 +13,16 @@
       "reminder": true
     },
     {
-      "id": 3,
-      "text": "Food Shopping",
-      "day": "March 3rd at 11:00am",
-      "reminder": false
-    },
-    {
       "id": 62948,
       "text": "Go to the dentist",
       "day": "June 26th at 1:00om",
       "reminder": false
+    },
+    {
+      "text": "This is a new task",
+      "day": "June 26th at 1:00om",
+      "reminder": true,
+      "id": 62949
     }
   ]
 }
